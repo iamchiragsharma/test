@@ -1,1 +1,4 @@
 Basic Understanding of Web Technologies: Start with HTML, CSS, and JavaScript. Understand how they work together to create web pages.
+Front-End Development:
+Advanced HTML & CSS: Learn about responsive design, CSS preprocessors like Sass, and CSS frameworks like Bootstrap.
+JavaScript and Front-End Frameworks: Dive deeper into JavaScript. Learn a front-end framework like React, Angular, or Vue.js. Understand DOM manipulation, asynchronous programming, and API consumption.
