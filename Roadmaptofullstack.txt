@@ -2,3 +2,7 @@ Basic Understanding of Web Technologies: Start with HTML, CSS, and JavaScript. U
 Front-End Development:
 Advanced HTML & CSS: Learn about responsive design, CSS preprocessors like Sass, and CSS frameworks like Bootstrap.
 JavaScript and Front-End Frameworks: Dive deeper into JavaScript. Learn a front-end framework like React, Angular, or Vue.js. Understand DOM manipulation, asynchronous programming, and API consumption.
+Back-End Development:
+Server-Side Programming Language: Choose a server-side language like JavaScript (Node.js), Python (Django, Flask), Ruby (Ruby on Rails), or Java (Spring Boot).
+Databases: Learn about databases, both SQL (e.g., PostgreSQL, MySQL) and NoSQL (e.g., MongoDB). Understand how to interact with databases using your chosen back-end language.
+RESTful APIs: Learn how to build and consume RESTful APIs to communicate between the front-end and back-end of your application.
